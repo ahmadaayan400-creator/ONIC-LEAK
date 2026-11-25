@@ -1,6 +1,4 @@
--- Deоbfuѕcаtеԁ Ԝіth LеаkD
--- https://leakd.fr
-
+-- leak by alpha empire 
 local players = game:GetService("Players")
 local coreGui = game:GetService("CoreGui")
 local userInputService = game:GetService("UserInputService")
@@ -2636,4 +2634,4 @@ if not ok then
   warn("Patti_dev123 Script Error: " .. tostring(result))
 end
 
--- https://leakd.fr
+
